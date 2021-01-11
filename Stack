@@ -38,7 +38,7 @@
             "Description": "URL of CF template for the network stack",
             "Type": "String",
             "AllowedPattern": "https:\\/\\/?[-a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)",
-            "Default": "",
+            "Default": "https://github.com/SaeidAshian/AWS-IaC/blob/main/SubTemplate-Networking",
             "ConstraintDescription": "must be a valid URL"
         },
         "SSHLocation": {
